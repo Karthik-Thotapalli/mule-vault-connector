@@ -1,10 +1,10 @@
-package com.avioconsulting.mule.connector.vault.provider;
+package com.hackmatters.mule.connector.vault.provider;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.StringContains.containsString;
 import static org.hamcrest.core.StringStartsWith.startsWith;
 
-import com.avioconsulting.mule.connector.vault.util.VaultContainer;
+import com.hackmatters.mule.connector.vault.util.VaultContainer;
 import org.junit.BeforeClass;
 import org.junit.ClassRule;
 import org.mule.functional.junit4.MuleArtifactFunctionalTestCase;

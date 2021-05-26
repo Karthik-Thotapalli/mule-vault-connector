@@ -1,6 +1,6 @@
-package com.avioconsulting.mule.connector.vault.provider;
+package com.hackmatters.mule.connector.vault.provider;
 
-import com.avioconsulting.mule.connector.vault.util.AwsCheck;
+import com.hackmatters.mule.connector.vault.util.AwsCheck;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.mule.functional.junit4.MuleArtifactFunctionalTestCase;

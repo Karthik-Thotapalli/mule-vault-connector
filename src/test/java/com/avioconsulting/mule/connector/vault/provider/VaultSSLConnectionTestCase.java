@@ -1,7 +1,7 @@
-package com.avioconsulting.mule.connector.vault.provider;
+package com.hackmatters.mule.connector.vault.provider;
 
-import com.avioconsulting.mule.connector.vault.util.SSLUtils;
-import com.avioconsulting.mule.connector.vault.util.VaultContainer;
+import com.hackmatters.mule.connector.vault.util.SSLUtils;
+import com.hackmatters.mule.connector.vault.util.VaultContainer;
 import org.bouncycastle.operator.OperatorCreationException;
 import org.junit.BeforeClass;
 import org.junit.ClassRule;
